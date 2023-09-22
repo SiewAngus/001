@@ -1,0 +1,11 @@
+.container {
+    text-align: center;
+    background-color: #fdf0cd;
+    width: 65%;
+    margin-left:auto;
+    margin-right: auto;
+    padding: 15px 50px 60px 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
